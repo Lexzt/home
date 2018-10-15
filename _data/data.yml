@@ -58,22 +58,19 @@ education:
         sociis natoque penatibus et magnis dis parturient montes, nascetur
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         pretium quis, sem.
-
           - Bullet point
           - Bullet point 
 
     - degree: Dip in Digital Entertainment Technology (Games)
-      university: Nanyang Polytechinc
+      university: Nanyang Polytechnic
       time: 2012 - 2015
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point 
+        During polytechnic, I learnt languages like C++ and C#, and tools like 
+        Unity and OpenGL. I had an overseas exchange to Finland, under Kajaani
+        University of Applied Sciences, where I worked for a company for 2.5 
+        months and studied another 2.5 months. 
+          - GPA: 3.76/4
+          - Director’s List - Sem 2 12/13, Sem 1/2 13/14, Sem 1/2 14/15
 
 experiences:
     - role: Part-time Programmer
@@ -84,8 +81,8 @@ experiences:
         threaded workflow, boosting performance by 40%. Hosted a WAMP server to 
         dynamically download large models and patches to streamline workflow 
         for customers.
-          - Bullet point
-          - Bullet point 
+          - Unity
+          - C# 
 
     - role: Junior Programmer
       time: May 2016 - May 2017
@@ -95,8 +92,8 @@ experiences:
         Built a middleware to pull information from hundreds of sensors and a 
         front-end UI to display the information. Supervised and improved the 
         application performance on lower end devices by 30%.
-          - Bullet point
-          - Bullet point
+          - Unity
+          - C#, MySQL, Java
 
     - role: Intern
       time: March 2014 - July 2014
@@ -105,8 +102,8 @@ experiences:
         Integrated social media tools and hosted the app on Facebook using 
         Parse. Experienced in the complete Software Development Life Cycle 
         in an Agile environment with Scrum teams.
-          - Bullet point
-          - Bullet point
+          - Parse
+          - Facebook API
 
 projects:
     title: Projects
@@ -124,32 +121,13 @@ projects:
 
       - title: Webcastly.co
         # link: "#"
-        tagline: "A startup where it monitors a user video behavior to provide feedback to professors on their webcast. In progress, Private repo."
+        tagline: "A startup where it monitors a user video behavior to provide 
+        feedback to professors on their webcast. In progress, private repo."
 
       - title: Project Planner
         # link: "#"
         tagline: "An app built in Unity as a GUI to sort out duties for my army camp, taking into account several key factors to improve the 
         efficiency of the camp."
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
