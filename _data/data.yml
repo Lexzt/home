@@ -111,30 +111,25 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      I work on a range of project from school work to my own startup in my free time
+      to learn about different stacks and the benefit of each of them such that I can 
+      provide a comprehensive and useful suggestion when needed.
 
     assignments:
       - title: Carpark Finder
-        link: "github.com/Lexzt/main"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        # link: "github.com/Lexzt/main"
+        tagline: "Car Park Finder is the application for all car owners seeking a hassle-free way to find HDB car parks. 
+        It has a GUI (Graphic User Interface) but most of the user interactions happen using the CLI (Command Line Interface). 
+        Built for my module, CS2103T"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Webcastly.co
+        # link: "#"
+        tagline: "A startup where it monitors a user video behavior to provide feedback to professors on their webcast. In progress, Private repo."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Project Planner
+        # link: "#"
+        tagline: "An app built in Unity as a GUI to sort out duties for my army camp, taking into account several key factors to improve the 
+        efficiency of the camp."
 
 publications:
     title: Publications
