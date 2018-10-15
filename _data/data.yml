@@ -62,7 +62,7 @@ education:
           - Bullet point
           - Bullet point 
 
-    - degree: Digital Entertainment Technology (Games)
+    - degree: Dip in Digital Entertainment Technology (Games)
       university: Nanyang Polytechinc
       time: 2012 - 2015
       details: |
@@ -116,8 +116,8 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
+      - title: Carpark Finder
+        link: "github.com/Lexzt/main"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
       - title: DevStudio
@@ -169,7 +169,7 @@ skills:
       - name: C#
         level: 85%
 
-      - name: MySQL
+      - name: MySQL & NoSQL
         level: 80%
 
       - name: C & C++
