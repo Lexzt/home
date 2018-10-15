@@ -84,18 +84,6 @@ experiences:
         threaded workflow, boosting performance by 40%. Hosted a WAMP server to 
         dynamically download large models and patches to streamline workflow 
         for customers.
-
-        
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-
           - Bullet point
           - Bullet point 
 
@@ -103,12 +91,10 @@ experiences:
       time: May 2016 - May 2017
       company: RoyceMedia Techonlogies, Singapore
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
+        Coordinated a team to design and develop a 3D building management. 
+        Built a middleware to pull information from hundreds of sensors and a 
+        front-end UI to display the information. Supervised and improved the 
+        application performance on lower end devices by 30%.
           - Bullet point
           - Bullet point
 
@@ -116,12 +102,9 @@ experiences:
       time: March 2014 - July 2014
       company: Critical Force Entertainment, Finland
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
+        Integrated social media tools and hosted the app on Facebook using 
+        Parse. Experienced in the complete Software Development Life Cycle 
+        in an Agile environment with Scrum teams.
           - Bullet point
           - Bullet point
 
@@ -177,22 +160,25 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Java
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Unity
+        level: 90%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: C#
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: MySQL
+        level: 80%
+
+      - name: C & C++
+        level: 70%
+
+      - name: Golang
+        level: 60%
+
+      - name: Python
         level: 60%
 
 footer: >
