@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: fongzhizhong@u.nus.edu
-    phone: +65 9647 6439
+    phone: +65 9647-6439
     linkedin: fong-keith
     github: lexzt
 
@@ -38,15 +38,20 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: About me
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      Currently, I am a student in National University of Singapore, pursing a 
+      Bachelor of Computing (Honours) in Computer Science. I believe in helping 
+      others and striving to be the best in what I do. I am a huge people-person 
+      and enjoy talking about the latest technologies trends.
 
-      Second paragraph if required.
+      I have previously worked at 3 different companies and am currently interested 
+      in software engineering, artificial intelligence and blockchain. I am also 
+      an avid participant in hackathons.
+
+      I also help out with school activities. I was the captain of the contract bridge
+      team for the Inter-faculty games and am working on my own startup during my free
+      time.
 
 education:
     - degree: BSc in Computer Science
@@ -82,7 +87,8 @@ experiences:
         dynamically download large models and patches to streamline workflow 
         for customers.
           - Unity
-          - C# 
+          - WAMP server
+          - C#
 
     - role: Junior Programmer
       time: May 2016 - May 2017
@@ -93,7 +99,7 @@ experiences:
         front-end UI to display the information. Supervised and improved the 
         application performance on lower end devices by 30%.
           - Unity
-          - C#, MySQL, Java
+          - C#, Java, MySQL
 
     - role: Intern
       time: March 2014 - July 2014
@@ -153,6 +159,3 @@ skills:
 
       - name: Python
         level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
