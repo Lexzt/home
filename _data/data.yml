@@ -16,7 +16,7 @@ sidebar:
     phone: +65 9647-6439
     linkedin: fong-keith
     github: lexzt
-    resume: testing
+    stack-overflow: testing
 
     languages:
       - idiom: English
@@ -50,9 +50,11 @@ career-profile:
       in software engineering, artificial intelligence and blockchain. I am also 
       an avid participant in hackathons.
 
-      I also help out with school activities. I was the captain of the contract bridge
-      team for the Inter-faculty games and am working on my own startup during my free
-      time.
+      I also participate with school activities. I was the captain of the computing 
+      contract bridge team for the Inter-faculty games and the head of logistics for 
+      an orientation camp for about 400 students, where I handled transports and 
+      equipments to their respective location. I am currently working on my own
+      startup during my free time as I believe there is always room to improve.
 
 education:
     - degree: BSc in Computer Science
@@ -163,3 +165,12 @@ skills:
 
       - name: Python
         level: 60%
+
+      - name: HTML & CSS
+        level: 60%
+
+      - name: Javascript
+        level: 50%
+
+      - name: PHP
+        level: 40%
