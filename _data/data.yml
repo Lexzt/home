@@ -116,24 +116,27 @@ projects:
     intro: >
       I work on a range of project from school work to my own startup in my free time
       to learn about different stacks and the benefit of each of them such that I can 
-      provide a comprehensive and useful suggestion when needed.
+      provide a comprehensive and useful suggestion when needed. 
+
+      Further clarification will be provided if needed!
 
     assignments:
       - title: Carpark Finder
         # link: "github.com/Lexzt/main"
-        tagline: "Car Park Finder is the application for all car owners seeking a hassle-free way to find HDB car parks. 
-        It has a GUI (Graphic User Interface) but most of the user interactions happen using the CLI (Command Line Interface). 
+        tagline: "Car Park Finder is the application for all car owners seeking 
+        a hassle-free way to find HDB car parks. It has a GUI (Graphic User Interface) 
+        but most of the user interactions happen using the CLI (Command Line Interface). 
         Built for my module, CS2103T"
 
       - title: Webcastly.co
         # link: "#"
-        tagline: "A startup where it monitors a user video behavior to provide 
+        tagline: "A startup where we monitor a user video behavior to provide 
         feedback to professors on their webcast. In progress, private repo."
 
       - title: Project Planner
         # link: "#"
-        tagline: "An app built in Unity as a GUI to sort out duties for my army camp, taking into account several key factors to improve the 
-        efficiency of the camp."
+        tagline: "An app built in Unity as a GUI to sort out duties for army camps, 
+        taking into account several key factors to improve the efficiency of the camp."
 
 skills:
     title: Skills &amp; Proficiency
