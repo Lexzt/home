@@ -8,6 +8,8 @@ layout: compress
 {% include head.html %}
 
 <body>
+  <div class="wrapper">
+
     <div id="mobile-menu-open" class="shadow-large">
         <i class="fa fa-bars" aria-hidden="true"></i>
     </div>
@@ -324,6 +326,15 @@ layout: compress
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <script src="js/scripts.min.js"></script>
+
+    <div class="main-wrapper">
+        {{ content }}
+    </div>
+  </div>
+
+  {% include footer.html %}
+
+{% include scripts.html %}
 </body>
 
 </html>
